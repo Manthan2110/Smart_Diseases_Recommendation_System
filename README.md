@@ -27,6 +27,11 @@ But instead of spiraling into worst-case scenarios, why not use data science to 
 
 ---
 
+## Streamlit Web Interface 
+![image](https://github.com/user-attachments/assets/aa2a988f-bbdc-4f4c-97bc-0ebbfe599498)
+
+
+---
 ## 🎯 Objectives
 
 - Build a robust machine learning model using Random Forest
@@ -54,8 +59,7 @@ The dataset includes:
   - Confusion Matrix
   - Classification Report
   - Accuracy Score
-
-
+    
 ---
 
 ## 🧪 How It Works
@@ -75,8 +79,6 @@ print("Predicted Disease:", prediction[0])
 - Heatmaps of confusion matrix  
 - Class-wise precision, recall, and F1 scores  
 - Disease frequency and symptom correlation plots
-
-![Confusion Matrix](https://github.com/user-attachments/assets/f908b417-b431-4595-af56-8d53acf992f1)
 
 ---
 
