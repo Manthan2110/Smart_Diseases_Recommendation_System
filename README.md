@@ -55,7 +55,6 @@ The dataset includes:
   - Classification Report
   - Accuracy Score
 
-![Model Evaluation](https://github.com/user-attachments/assets/f908b417-b431-4595-af56-8d53acf992f1)
 
 ---
 
